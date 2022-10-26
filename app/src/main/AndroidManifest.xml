@@ -22,7 +22,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:host="www.google.com"
+                    android:host="www.chrome.com"
                     android:scheme="https" />
             </intent-filter>
             <meta-data

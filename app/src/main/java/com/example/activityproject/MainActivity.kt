@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
             }
 
             val viewIntent = Intent(Intent.ACTION_VIEW)
-            viewIntent.data = Uri.parse("https://www.google.com")
+            viewIntent.data = Uri.parse("https://www.chrome.com")
             startActivity(viewIntent)
         }
     }
